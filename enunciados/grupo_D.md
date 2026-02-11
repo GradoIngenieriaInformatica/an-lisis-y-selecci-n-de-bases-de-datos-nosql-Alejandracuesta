@@ -15,3 +15,4 @@ basadas en identificadores únicos.
 Plataforma financiera que registra transacciones históricas
 para análisis temporal y detección de tendencias.
 
+#17#-taller-1
