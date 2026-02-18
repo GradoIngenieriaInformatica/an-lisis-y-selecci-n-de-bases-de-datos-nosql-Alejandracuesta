@@ -1,4 +1,2 @@
-TEXTO | respuesta
-
-Para un sistema de caché distribuido basado en identificadores únicos, la mejor opción es una base de datos clave-valor como Redis. En este escenario se prioriza la velocidad, la baja latencia y la alta disponibilidad por encima de la consistencia fuerte. El acceso directo por clave permite respuestas rápidas y facilita la escalabilidad horizontal, alineándose con el modelo BASE y el enfoque de disponibilidad del teorema CAP.
+TEXTO | para un sistema de caché distribuido basado en identificadores únicos, la mejor opción es una base de datos clave-valor como Redis. En este escenario se prioriza la velocidad, la baja latencia y la alta disponibilidad por encima de la consistencia fuerte. El acceso directo por clave permite respuestas rápidas y facilita la escalabilidad horizontal, alineándose con el modelo BASE y el enfoque de disponibilidad del teorema CAP.
 
