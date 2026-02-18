@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+TEXTO | en una plataforma financiera que registra transacciones históricas, el sistema transaccional principal debe utilizar una base de datos relacional que garantice propiedades ACID y consistencia fuerte. Sin embargo, para el análisis histórico y detección de tendencias sobre grandes volúmenes de datos, una solución NoSQL puede resultar más eficiente por su capacidad de escalar horizontalmente y manejar grandes cantidades de información. Esto demuestra que SQL y NoSQL pueden complementarse según las necesidades del sistema.
