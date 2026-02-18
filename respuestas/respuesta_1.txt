@@ -1,3 +1,3 @@
-Ejercicio 1
+TEXTO | respuesta
 
 En una aplicación social donde se analizan comunidades, grados de separación y relaciones bidireccionales, la opción más adecuada es una base de datos orientada a grafos. Este modelo permite representar y recorrer relaciones complejas de forma eficiente, evitando múltiples JOINs costosos que aparecerían en una base relacional a gran escala. Dado que el valor principal está en las conexiones entre usuarios, una base de grafos ofrece mejor rendimiento y escalabilidad horizontal en entornos distribuidos.
